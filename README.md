@@ -1,6 +1,6 @@
 # DSD
 
-This Python application automates the processing of purchase order emails and extracts key information for order fulfillment.
+making small change here. This Python application automates the processing of purchase order emails and extracts key information for order fulfillment.
 
 ## Features:
 
